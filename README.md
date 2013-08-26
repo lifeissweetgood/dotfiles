@@ -1,4 +1,7 @@
 dotfiles
 ========
 
-My various dotfiles
+My various dot files
+
+bash
+vim
