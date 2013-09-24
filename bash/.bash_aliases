@@ -9,6 +9,7 @@ alias vi='gvim'
 # Git aliases to make my life easier
 alias add='git add'
 alias clone='git clone'
+alias log='git log'
 alias status='git status'
 alias commit='git commit'
 alias commitm='git commit -m'
